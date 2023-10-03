@@ -1,3 +1,5 @@
+This was tested on Ubuntu 22.04 running 6.2 kernel.
+
 # IXXAT USB-to-CAN Driver
 
 The IXXAT USB-To-CAN linux driver provides support for the following devices:
