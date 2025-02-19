@@ -1,4 +1,7 @@
-This was tested on Ubuntu 22.04 running 6.2 kernel.
+This was tested on:
+
+- Ubuntu 22.04 running 6.2 kernel.
+- Arch Linux running 6.12 kernel.
 
 # IXXAT USB-to-CAN Driver
 
